@@ -1,6 +1,6 @@
 Package: novelforestSG
-Title: Data for Lai et al. (2021) Appl. Veg. Sci.
-Version: 1.2.1
+Title: Dataset from the Novel Forests of Singapore
+Version: 2.0.0
 Authors@R: 
     c(person(given = "Hao Ran",
              family = "Lai",
@@ -34,7 +34,7 @@ Authors@R:
              role = c("ths"),
              email = "hughtan@nus.edu.sg"))
 Description: 
-    The dataset and model used in Lai et al. (2021) 
+    The raw dataset and model used in Lai et al. (2021) 
     Decoupled responses of native and exotic tree diversities to 
     distance from old-growth forest and soil phosphorous in 
     novel secondary forests. Applied Vegetation Science, 24, e12548.
@@ -45,11 +45,11 @@ URL: https://hrlai.github.io/novelforestSG/,
 BugReports: https://github.com/hrlai/novelforestSG/issues
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.1.1
+RoxygenNote: 7.1.2
 Depends: R (>= 2.10)
 Suggests: brms (>= 2.10.0), testthat
 NeedsCompilation: no
-Packaged: 2021-02-19 20:43:47 UTC; hrlai
+Packaged: 2022-10-03 20:43:21 UTC; hrlai
 Author: Hao Ran Lai [aut, cre] (<https://orcid.org/0000-0001-6871-0146>),
   Kwek Yan Chong [aut] (<https://orcid.org/0000-0003-4754-8957>),
   Alex Thiam Koon Yee [aut] (<https://orcid.org/0000-0002-6465-0075>),
@@ -59,4 +59,4 @@ Author: Hao Ran Lai [aut, cre] (<https://orcid.org/0000-0001-6871-0146>),
   Hugh Tiang Wah Tan [ths]
 Maintainer: Hao Ran Lai <hrlai.ecology@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-02-20 01:50:02 UTC
+Date/Publication: 2022-10-03 21:20:02 UTC
